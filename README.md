@@ -39,7 +39,7 @@ I created this project to:
    ```
 4. **Configure your database**
    - Update the connection string in `app/database.py` if needed.
-   - Default is PostgreSQL with user `postgres` and password `1308`.
+   - Default is PostgreSQL with user and password .
 
 5. **Run the application**
    ```powershell
